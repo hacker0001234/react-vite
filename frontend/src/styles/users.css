@@ -1,0 +1,10 @@
+.all{
+    position: absolute;
+    left: 30%;
+    top:0;
+}
+.all button{
+    position: absolute;
+    left: 40%;
+    top: 5%;
+}

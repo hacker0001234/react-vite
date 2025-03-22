@@ -1,0 +1,12 @@
+.not-found-container {
+    display: flex;
+    position: relative;
+    font-size: 100px;
+    left: 50%;
+}
+.notFound {
+    text-align: center; /* Вирівнюємо текст по центру */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
